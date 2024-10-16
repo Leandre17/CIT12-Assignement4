@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VwOG0bvvi+vdB0x6PxVUh98kjutKQqnLMkOZRwJMNsrbAZ9Vgy6j32NQDHCnRigB0GuEdR1Oc8ovMJhTk7c0ZA==",
+  "success": true,
+  "projectFilePath": "/home/gleandre/RUC/assignement4/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/gleandre/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/gleandre/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/gleandre/.nuget/packages/npgsql/8.0.5/npgsql.8.0.5.nupkg.sha512",
+    "/home/gleandre/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
