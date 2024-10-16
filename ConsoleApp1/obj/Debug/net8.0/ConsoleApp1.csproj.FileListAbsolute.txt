@@ -17,3 +17,4 @@
 /home/gleandre/RUC/assignement4/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
 /home/gleandre/RUC/assignement4/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
 /home/gleandre/RUC/assignement4/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/home/gleandre/RUC/assignement4/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
